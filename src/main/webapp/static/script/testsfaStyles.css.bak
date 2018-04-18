@@ -1,0 +1,154 @@
+a {font-family: Verdana, Arial; font-size: 10px; font-weight:none; text-decoration: none; COLOR: #3300FF}
+a:hover { text-decoration:underline}
+
+a.topLinks {font-family: Verdana, Arial; font-size: 10px; font-weight: bold; text-decoration: none; COLOR: #ffffff}
+a:hover.topLinks { text-decoration:underline}
+
+a.linksHeading {font-family: Verdana, Arial; font-size: 12px; font-weight: bold; text-decoration: none; COLOR: #ffff00}
+a:hover.linksHeading { text-decoration:underline}
+a.linksHeading1{font-family:Verdana, Arial; font-size: 11px; font-weight: none; text-decoration: none; COLOR:#000099}
+
+table {
+	background-color: #ffffff;
+	padding: 2px 2px;
+}
+
+
+td {font-family: Verdana, Arial; font-size: 12px; background-color: #ffffff}
+td.heading1 {font-family: Verdana, Arial; font-size: 10px; background-color: #C6BFB0; font-weight: bold; COLOR: #ffffff;}
+td.heading {font-family: Verdana, Arial; font-size: 10px; background-color: #5082ce; font-weight: bold; COLOR: #ffffff;}
+td.redHeading {font-family: Verdana, Arial; font-size: 10px; background-color: #c00000; font-weight: bold; COLOR: #ffffff;}
+td.subheading {font-family: Verdana, Arial; font-size: 10px; background-color: #c9dcf7; font-weight: bold;}
+td.coloredrow1 {font-family: Verdana, Arial; font-size: 10px; background-color: #eeeeee;}
+td.coloredrow2 {font-family: Verdana, Arial; font-size: 10px; background-color: #FFFFFF;}
+td.priority1 {font-family: Verdana, Arial; font-size: 10px; background-color: #CCCCCC}
+td.priority {font-family: Verdana, Arial; font-size: 10px; background-color: #FFCCCC; }
+td.mainheading { font-family: Verdana, Arial; font-style: normal, italic, small caps, oblique;  font-size: 10px; background-color: #5082ce; font-weight: bold; COLOR: #ffffff;}
+td.top { background-color: #5082ce; }
+td.subject{ font-family: Verdana, Arial; font-size: 10px; background-color: #CCCCCC; font-weight: bold; COLOR: #666666;}
+
+
+ 
+input {font-size:10px; font-family: Verdana, Arial}
+textarea{font-size:10px; font-family: Verdana, Arial}
+select{font-size:10px; font-family: Verdana, Arial}
+
+.headerTop {BACKGROUND-COLOR: #5082ce;}
+
+.HeaderText {font-family: Verdana, Arial; font-size: 10px; font-weight: bold; text-decoration: none; COLOR: #ffffff}
+
+table.top {
+	padding: 0px;
+}
+
+.bottomTable {
+	position: absolute;
+	top: 96%;
+}
+
+TextBoxAsText1 {
+  text-align:right;
+  background-color:#ccffff;
+  border:none;
+  }
+
+F0FFF1
+#c00000
+ 
+.topHeaderText {FONT-FAMILY: Verdana, Arial; FONT-SIZE: 14px; FONT-WEIGHT: bold}
+.topHeaderText2 {FONT-FAMILY: Verdana, Arial; FONT-SIZE: 14px; FONT-WEIGHT: bold}
+
+.smallbold {  font-family: Verdana, Arial; font-size: 10px; FONT-WEIGHT: bold}
+
+.small {  font-family: Verdana, Arial; font-size: 10px; font-weight: bold; text-decoration: none}
+.small {  font-family: Verdana, Arial; font-size: 10px}
+.medium {  font-family: Verdana, Arial; font-size: 12px}
+.small_bg {  font-family: Verdana, Arial; font-size: 10px; background-color: #c9dcf7}
+.small_bold { font-family: Verdana, Arial; font-size: 10px}
+.yellow {  color: #FFFF00}
+.white {  color: #FFFFFF}
+td.priority2 { font-family: Verdana, Arial; font-size: 10px; background-color: #c9dcf7}
+.alternateColor1 {font-family: Verdana, Arial; font-size: 10px; background-color: FFFFE5;}
+.alternateColor2 {font-family: Verdana, Arial; font-size: 10px; background-color: eeeeee;}
+.alternateColor3 {font-family: Verdana, Arial; font-size: 10px; background-color:#F2F2F2;}
+.alternateColor4 {font-family: Verdana, Arial; font-size: 10px; background-color: eeeeee;}
+.preority3 {font-family: Verdana, Arial; font-size: 10px;  COLOR: #000000;  background-color: #FFB7B7;}
+
+
+.backgroundColor {font-family: Verdana, Arial; font-size: 10px; background-color: #f2f2f2}
+
+.backgroundColor1 {font-family: Verdana, Arial; font-size: 10px; background-color: #BBBBBB}
+.backgroundColor3 {font-family: Verdana, Arial; font-size: 10px; background-color: #999999}
+
+
+.errorMessageBig {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #cc0000;
+	font-weight: bold;
+}
+
+.MessageBig{
+	font-family: Verdana, Arial;
+	font-size: 12px;
+    COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #5082ce; 
+	font-weight: bold;
+}
+.errorMessageSmall {
+	font-family: Verdana, Arial;
+	font-size: 10px;
+	color: #cc0000;
+	font-weight: bold;
+}
+
+.MessageMail {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #cc0000;
+	font-weight: bold;
+}
+.MessageConfirm {
+	font-family: Verdana, Arial;
+	font-size: 14px;
+	color: #cc0000;
+	font-weight: bold;
+}
+.tableTopMenu {
+	BACKGROUND-COLOR: #000000;
+}
+.tableBottomMenu {
+	BACKGROUND-COLOR: #306790; COLOR: #dfe7ef; FONT-FAMILY: Verdana, Arial; FONT-SIZE: 8px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+
+A.aMenu {
+	COLOR: white; TEXT-DECORATION: none
+}
+A.aMenu:hover {
+	COLOR: #dfe7ef; TEXT-DECORATION: none
+}
+TD.tableHMenu {
+	BACKGROUND-COLOR: #5082ce; COLOR: #336699; FONT-FAMILY:Verdana, Arial ; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+
+TD.tableTabMenu {
+	BACKGROUND-COLOR: #666666; COLOR: #838383; FONT-FAMILY:Verdana, Arial ; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+TD.tableTabMenu1 {
+	BACKGROUND-COLOR: #9F9F9F; COLOR: #838383; FONT-FAMILY:Verdana, Arial ; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+A.aHMenu {
+	COLOR: #2f6090; TEXT-DECORATION: none; FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+A.aHMenu:hover {
+	COLOR: #003366; TEXT-DECORATION: none; FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+
+.contentHead { font-family: Verdana, Arial ; font-size: 16px; font-weight: bold; color: #000000}
+.contentMessage { font-family: Verdana, Arial; font-size: 12px; font-weight: bold; color: #000000}
+.content { font-family: Verdana, Arial ; font-size: 12px; color: #000000}
+
+.selectedMenu { color: #ffcc00 }
+.redtext {  font-family:  Verdana, Arial; font-size: 9px; font-style: normal; color: #FF0000}
+.redheading {  font-family: Verdana, Arial; font-size: 11px; font-weight: bold; color: #FF0000}
+
